@@ -1,1 +1,0 @@
-import{v as t,az as r}from"./index-CDCdlyCR.js";const p=(...e)=>t(r.endpoints.ensureProviderProperty,e),n=(...e)=>t(r.endpoints.getCustomProperties,e),a=(...e)=>t(r.endpoints.getPropertyTypes,e),o=(...e)=>t(r.endpoints.createOrUpdateCustomProperty,e),d=o,P=(...e)=>t(r.endpoints.deleteCustomProperty,e);export{a,d as b,o as c,P as d,p as e,n as g};
