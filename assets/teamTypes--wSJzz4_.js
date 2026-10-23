@@ -1,0 +1,1 @@
+const s=[{value:"Group",label:"Group"},{value:"Department",label:"Department"},{value:"Division",label:"Division"},{value:"BusinessUnit",label:"Business Unit"}],t="Select Team Type",n=e=>(e||"").replace(/\s+/g,""),i=e=>{var a;return((a=s.find(l=>l.value===n(e)))==null?void 0:a.label)||e||"Group"};export{t as T,s as a,n,i as t};
